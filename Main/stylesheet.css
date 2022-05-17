@@ -66,3 +66,7 @@ body {
 .heading2 {
     padding-top: 80px;
 }
+
+.previewworks a:hover {
+    font-size: 60px;
+}
