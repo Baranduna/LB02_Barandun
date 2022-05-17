@@ -67,6 +67,14 @@ body {
     padding-top: 80px;
 }
 
-.previewworks a:hover {
+.get-big-pls a:hover {
     font-size: 60px;
+}
+
+footer {
+    background-color: #111;
+}
+
+.footer-text {
+    color: white;
 }
