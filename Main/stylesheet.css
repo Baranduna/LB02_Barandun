@@ -42,19 +42,19 @@ body {
 }
 
 .centred {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .banner {
     position: relative;
     text-align: center;
     color: white;
-  }
+}
 
-.heading{
+.heading {
     color: white;
     position: absolute;
     top: 2%;
@@ -67,8 +67,13 @@ body {
     padding-top: 80px;
 }
 
-.get-big-pls a:hover {
+.get-big-pls{
     font-size: 60px;
+}
+
+.get-big-pls:hover  {
+    font-size: 65px !important;
+    color: blueviolet !important;
 }
 
 footer {
