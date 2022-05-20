@@ -69,11 +69,15 @@ body {
 
 .get-big-pls{
     font-size: 60px;
+    transition: 0.2s ease-in-out;
 }
+
 
 .get-big-pls:hover  {
     font-size: 65px !important;
     color: blueviolet !important;
+    transition: 0.2s ease-in-out;
+    transform: scale(1.05);
 }
 
 footer {
@@ -82,4 +86,14 @@ footer {
 
 .footer-text {
     color: white;
+}
+
+overview-col {
+
+}
+
+.overview-img{
+    width: 600px;
+    height: auto;
+    margin: 40px;
 }
