@@ -88,12 +88,8 @@ footer {
     color: white;
 }
 
-overview-col {
-
-}
-
 .overview-img{
-    width: 600px;
+    width: 80%;
     height: auto;
     margin: 40px;
 }
