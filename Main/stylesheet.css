@@ -1,5 +1,16 @@
 body {
     font-family: "Lato", sans-serif;
+    background-image: url(/images/vA_Zeichnungen_12.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+p{
+    background-color: white ;
+}
+h2{
+    background-color: white ;
 }
 
 .nav-item {
@@ -67,6 +78,14 @@ body {
 
 .white-text {
     color: white !important;
+    background-color: black;
+}
+
+.carousel-inner{
+  width: 100%;  
+  overflow: hidden;
+  height: 789px;
+  align-content:center ;
 }
 
 footer {
@@ -77,8 +96,10 @@ footer {
   display: block;
 background-color: black;
 bottom: 0;
+padding: 20px;
 
 }
 .container {
     width: 100% !important;
+  
 }
