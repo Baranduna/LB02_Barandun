@@ -17,14 +17,6 @@ h2{
     color: white !important;
 }
 
-.bg-dark{
-    background-color:black !important;
-}
-
-.navbar-dark{
-    background-color: black !important;
-}
-
 .mainimage {
     border-radius: 111px;
     max-height: 733;
@@ -86,7 +78,7 @@ h2{
 
 .white-text {
     color: white !important;
-    background-color: black;
+    background-color: #212529;
 }
 
 .carousel-inner{
@@ -102,7 +94,7 @@ h2{
   bottom:0 !important;
   left:0 !important;
   display: block;
-background-color: black;
+background-color: #212529;
 bottom: 0;
 padding: 20px;
 }
