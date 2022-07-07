@@ -17,6 +17,14 @@ h2{
     color: white !important;
 }
 
+.bg-dark{
+    background-color:black !important;
+}
+
+.navbar-dark{
+    background-color: black !important;
+}
+
 .mainimage {
     border-radius: 111px;
     max-height: 733;
@@ -88,18 +96,13 @@ h2{
   align-content:center ;
 }
 
-footer {
+.page-footer {
 
-    width:100% !important;
+    max-width:100% !important;
   bottom:0 !important;
   left:0 !important;
   display: block;
 background-color: black;
 bottom: 0;
 padding: 20px;
-
-}
-.container {
-    width: 100% !important;
-  
 }
